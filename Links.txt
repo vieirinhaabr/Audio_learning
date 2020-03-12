@@ -1,0 +1,2 @@
+https://github.com/christianlomboy/MIR-Genre-Predictor/blob/master/MIR_Predictor_Lomboy_Final.ipynb
+https://towardsdatascience.com/how-i-built-an-audio-based-music-genre-predictor-using-python-and-the-spotify-web-api-a957e427a515
